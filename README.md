@@ -13,7 +13,7 @@ LOGIN AND REGISTER PAGE
  ![Image 3](https://github.com/piyushpatil4270/Blogify/blob/master/client/src/images/Screenshot%20(15)copy.png) 
  
  
- ![Image 4]((https://github.com/piyushpatil4270/Blogify/blob/master/client/src/images/Screenshot%20(16)copy.png)
+ ![Image 4](https://github.com/piyushpatil4270/Blogify/blob/master/client/src/images/Screenshot%20(16)copy.png)
  
 
  USERS CAN CREATE AND EDIT BLOGS ONCE THEY ARE LOGGED-IN 
