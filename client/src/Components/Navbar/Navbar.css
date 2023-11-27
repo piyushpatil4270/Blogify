@@ -1,0 +1,43 @@
+.navbar{
+    width: 100%;
+    height: 50px;
+    background-color: white;
+    position: sticky;
+    top: 0;
+    display: flex;
+    align-items: center;
+    font-family: 'Josefin Sans',sans-serif;
+    z-index: 999;
+    }
+    .topleft,.topright{
+        flex: 2;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .topcenter{
+        flex: 5;
+    }
+    .topicon{
+        font-size: 20px;
+        margin-right: 10px;
+        color: #444;
+        cursor: pointer;
+    }
+    .toplist{
+        display: flex;
+        justify-content: center;
+        margin: 0;
+        padding: 0;
+        list-style: none;
+    }
+    .toplistitem{
+        margin-right: 20px;
+        font-size: 20px;
+        font-weight: 380;
+        cursor: pointer;
+    }
+    div.navbar ul.toplist a{
+        text-decoration: none;
+        color: inherit;
+    }

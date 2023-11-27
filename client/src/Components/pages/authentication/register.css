@@ -1,0 +1,48 @@
+.register{
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 5%;
+}
+.head{
+    display: flex;
+    align-items: center;
+}
+.registerform{
+    display: flex;
+    flex-direction: column;
+}
+.label{
+    font-size: 20px;
+    font-family: 'Josefin Sans',sans-serif;
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+}
+.registerhead{
+    font-size: 20px;
+    font-family: 'Josefin Sans',sans-serif;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+.input{
+    height: 5px;
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+    height: max-content;
+    border: 1px solid ;
+   line-height: 3em;
+   font-size: 15px;
+   
+   border-radius: 4px;
+}
+.registerbutton{
+    margin-top: 1%;
+    width: 15%;
+    height: 7vh;
+    background-color: rgb(39, 138, 20);
+    color: white;
+    padding: 0px;
+    border: none;
+    border-radius: 5px;
+    cursor:pointer
+}
